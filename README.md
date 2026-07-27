@@ -13,4 +13,4 @@ This repository documents my journey to becoming an SOC L1 analyst.  It will inc
 ## Writeups
 
 📄 [THM The Letter (PDF)](https://github.com/VendyVendy/SOC_Learning_Lab/raw/main/writeups/THM_The_Letter.pdf)
-📄 [THM The Letter (PDF)](https://github.com/VendyVendy/SOC_Learning_Lab/raw/main/writeups/THM_The_Brochure.pdf)
+📄 [THM The Brochure (PDF)](https://github.com/VendyVendy/SOC_Learning_Lab/raw/main/writeups/THM_The_Brochure.pdf)
